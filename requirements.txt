@@ -1,0 +1,10 @@
+numpy
+torch
+streamlit
+Pillow
+shutil
+transformers
+tqdm
+annoy
+scipy
+
